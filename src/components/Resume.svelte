@@ -21,7 +21,6 @@
 
     <div class="container flex items-center justify-between mt-10 w-full h-[1085px]">
 
-        <iframe src="https://docs.google.com/document/d/e/2PACX-1vR2n23sLfcGDP_jLQW_IlE4QBdmwd2oUAfCbnbs10dHJC0NBnEvgWjUghS6PH8Zog/pub?embedded=true" class="h-full"></iframe>
 
 
 
