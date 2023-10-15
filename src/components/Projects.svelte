@@ -2,7 +2,7 @@
 
     <h1 class="container font-inter font-black text-[48px]">Projects</h1>
 
-    <div class="container mt-10">
+    <div class="container mt-4">
 
         <div class="rounded-2xl overflow-hidden">
             <img src="https://github.com/Calesi19/LockerHub/blob/main/demo.jpg?raw=true" alt="Featured Project">
@@ -17,7 +17,7 @@
 
 
 
-    <div class="container mt-10">
+    <div class="container mt-8">
 
         <h2 class="font-inter font-black text-[24px]">
             LockerHub
