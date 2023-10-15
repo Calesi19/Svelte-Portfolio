@@ -2,7 +2,7 @@
 <style>
     
     .waveBackgroundEnd {
-      background: url('waves-end.svg') no-repeat center center;
+      background: url('https://raw.githubusercontent.com/Calesi19/Portfolio/main/static/waves-end.svg') no-repeat center center;
       background-size: cover; /* This makes sure the SVG covers the entire div */
       height: auto;
       min-height: 50vh;
