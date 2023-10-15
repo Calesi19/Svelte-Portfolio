@@ -3,3 +3,9 @@
 @tailwind utilities;
 
 
+@font-face {
+    font-family: 'Inter'; /* A name for the font */
+    src: url('/static/fonts/Inter-VariableFont_slnt\,wght.ttf') format('truetype'); /* Add other formats if needed */
+    font-weight: normal;
+    font-style: normal;
+}
