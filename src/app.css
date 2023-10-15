@@ -6,8 +6,7 @@
 @font-face {
     font-family: 'Inter'; /* A name for the font */
     src: url('/static/fonts/Inter-VariableFont.ttf') format('truetype'); /* Add other formats if needed */
-    font-weight: normal;
-    font-style: normal;
+    font-weight: 100 900;
 }
 
 * {

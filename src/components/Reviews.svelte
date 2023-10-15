@@ -3,7 +3,7 @@
 
 <div class="min-h-[200px] bg-[#cdcdcd] py-[200px]">
 
-    <div class="container justify-between gap-4 flex">
+    <div class="container justify-between gap-4 flex overflow-auto">
 
         <div class="w-auto p-10 bg-[#f5f5f5] rounded-xl hover:bg-[#eeeeee]">  
             <h2 class="font-inter font-bold mb-4">
