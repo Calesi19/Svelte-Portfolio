@@ -3,7 +3,7 @@
 <div class="bg-[#F5F5F5] py-10 w-full">
 
 
-    <h1 class="container font-inter font-black text-[48px]">Skills</h1>
+    <h1 class="container font-inter font-black text-[32px] md:text-[48px]">Skills</h1>
     
     <div class="flex container gap-2 lg:justify-between mt-4 overflow-auto lg:overflow-auto no-scrollbar">
     

@@ -1,13 +1,12 @@
 <div class="bg-[#F5F5F5] py-10 w-full">
 
-    <h1 class="container font-inter font-black text-[48px]">Projects</h1>
+    <h1 class="container font-inter font-black text-[32px] md:text-[48px]">Projects</h1>
 
     <div class="container mt-4">
 
         <div class="rounded-2xl overflow-hidden">
             <img src="https://github.com/Calesi19/LockerHub/blob/main/demo.jpg?raw=true" alt="Featured Project">
         </div>
-
 
 
 

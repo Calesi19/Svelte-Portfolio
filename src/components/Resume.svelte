@@ -15,7 +15,7 @@
 <div class="waveBackgroundEnd py-10 min-h-[500px]">
 
 
-    <h1 class="container font-inter font-black text-[48px]">Resume</h1>
+    <h1 class="container font-inter font-black text-[32px] md:text-[48px]">Resume</h1>
     
 
 
