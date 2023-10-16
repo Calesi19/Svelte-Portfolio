@@ -12,3 +12,22 @@
 * {
     font-family: 'Inter', 'Poppins', sans-serif;
 }
+
+
+/* For WebKit (Safari, Chrome, etc) */
+.no-scrollbar::-webkit-scrollbar {
+    width: 0;
+    height: 0;
+    display: none; /* Optional based on preference */
+}
+
+/* For Internet Explorer and Edge */
+.no-scrollbar {
+    -ms-overflow-style: none;
+    scrollbar-width: none; /* For updated versions of Firefox */
+}
+
+/* For Firefox (64 and above) */
+.no-scrollbar {
+    scrollbar-width: none;
+}

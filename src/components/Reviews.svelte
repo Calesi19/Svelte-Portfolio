@@ -1,7 +1,9 @@
 
 
 
-<div class="min-h-[200px] bg-[#cdcdcd] py-[200px]">
+<div class="min-h-[200px] bg-[#cdcdcd] py-[100px]">
+
+    <h1 class="container mb-10 font-bold text-lg text-center">What others are saying...</h1>
 
     <div class="container justify-between gap-4 flex overflow-auto">
 
