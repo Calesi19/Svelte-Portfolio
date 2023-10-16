@@ -26,7 +26,7 @@
         </div>
     
         
-        <img class=" min-h-[200px] md:mt-4 lg:min-h-[500px] md:h-[50vh]" src="headframe.webp" alt="Carlos Lespin">
+        <img class=" min-h-[200px] hidden md:flex md:mt-4 lg:min-h-[500px] md:h-[50vh]" src="headframe.webp" alt="Carlos Lespin">
     </div>
     
 </div>

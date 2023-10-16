@@ -5,7 +5,7 @@
 
     <h1 class="container mb-10 font-bold text-lg text-center">What others are saying...</h1>
 
-    <div class="container justify-between gap-4 flex overflow-auto">
+    <div class="container justify-between gap-4 flex overflow-auto no-scrollbar">
 
         <div class="w-auto min-w-[300px] p-10 bg-[#f5f5f5] rounded-xl hover:bg-[#eeeeee]">  
             <h2 class="font-inter font-bold mb-4">
