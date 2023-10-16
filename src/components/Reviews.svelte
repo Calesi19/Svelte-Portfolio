@@ -7,37 +7,34 @@
 
     <div class="container justify-between gap-4 flex overflow-auto no-scrollbar">
 
-        <div class="w-auto min-w-[300px] p-10 bg-[#f5f5f5] rounded-xl hover:bg-[#eeeeee]">  
+        <div class="min-w-[300px] w-[750px] p-10 bg-[#f5f5f5] rounded-xl hover:bg-[#eeeeee]">  
             <h2 class="font-inter font-bold mb-4">
-                Jayme Wahlquist
+                Lydia Wahlquist
             </h2>
             <p>
                 <i class=" font-light"> 
-                    "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Obcaecati maxime quos fuga impedit ea, ratione totam veniam illo dicta eligendi ipsam in quasi aut voluptates at excepturi quisquam itaque dolores!"
-                </i> 
+                    "Carlos made a killer website for my arepa orders. He really tuned into what I needed, and the end result was spot on. Totally recommend him for web stuff!"                </i> 
             </p>
         </div>
 
-        <div class="w-auto min-w-[300px] p-10 bg-[#f5f5f5] rounded-xl hover:bg-[#eeeeee]">  
+        <div class="min-w-[300px] w-[750px] p-10 bg-[#f5f5f5] rounded-xl hover:bg-[#eeeeee]">  
             <h2 class="font-inter font-bold mb-4">
-                Jayme Wahlquist
+                Hunter Smith
             </h2>
             <p>
                 <i class=" font-light"> 
-                    "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Obcaecati maxime quos fuga impedit ea, ratione totam veniam illo dicta eligendi ipsam in quasi aut voluptates at excepturi quisquam itaque dolores!"
-                </i> 
+                    "Carlos was a lifesaver in my programming class. He breaks things down so they're easy to get. Passed my class thanks to him!"                </i> 
             </p>
         </div>
 
 
-        <div class="w-auto min-w-[300px] p-10 bg-[#f5f5f5] rounded-xl hover:bg-[#eeeeee]">  
+        <div class="min-w-[300px] w-[750px] p-10 bg-[#f5f5f5] rounded-xl hover:bg-[#eeeeee]">  
             <h2 class="font-inter font-bold mb-4">
-                Jayme Wahlquist
+                Daniel Gomez
             </h2>
             <p>
                 <i class=" font-light"> 
-                    "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Obcaecati maxime quos fuga impedit ea, ratione totam veniam illo dicta eligendi ipsam in quasi aut voluptates at excepturi quisquam itaque dolores!"
-                </i> 
+                    "Working with Carlos on our college project was awesome. Super dedicated, full of cool ideas, and always had our team's back."                </i> 
             </p>
         </div>
 
