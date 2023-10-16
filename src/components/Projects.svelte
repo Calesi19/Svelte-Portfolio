@@ -27,8 +27,8 @@
             Lorem ipsum dolor, sit amet consectetur adipisicing elit. Fugiat, sed deleniti? Odit quis accusantium ratione maxime. Excepturi consectetur dolorem at molestiae officiis pariatur qui porro veritatis, totam, veniam doloremque error.
         </p>
 
-        <div class="flex gap-4">
-            <button class="mt-4 py-3 px-10 rounded-full text-white bg-[#1E1E1E]">
+        <div class="flex md:gap-4 lg:flex-row flex-col">
+            <button class="mt-4 py-3 px-10 rounded-full text-white bg-[#1E1E1E] border-4 border-[#1E1E1E]">
                 Visit Repository
             </button>
             <button class=" border-4 border-[#1E1E1E] mt-4 py-3 px-10 rounded-full text-black hover:bg-[lightgrey] active:bg-[grey]">

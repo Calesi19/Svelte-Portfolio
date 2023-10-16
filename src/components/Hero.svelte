@@ -22,7 +22,7 @@
         <div class="mt-8 mb-20 md:mb-0 md:mt-0">
             <h1 class="font-inter font-black text-[64px] md:text-[84px] leading-none ">Software<br> Developer</h1>
             <p class="font-inter font-bold text-[#505050] text-xl md:text-2xl mt-4">I’m a Software Engineering Student currently searching for internships.</p>
-            <button class="bg-[#1E1E1E] hover:bg-[#7b47af] active:bg-[#a55feb] active:duration-0 text-xl mt-4 py-5 px-12 rounded-full text-white transition duration-300">Download Resume</button>
+            <button class="bg-[#1E1E1E] hover:bg-[#7b47af] active:bg-[#a55feb] active:duration-0 text-xl w-full md:w-auto mt-4 py-5 px-12 rounded-full text-white transition duration-300">Download Resume</button>
         </div>
     
         
