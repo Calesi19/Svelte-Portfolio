@@ -5,7 +5,7 @@
 
     <div class="container justify-between gap-4 flex overflow-auto">
 
-        <div class="w-auto p-10 bg-[#f5f5f5] rounded-xl hover:bg-[#eeeeee]">  
+        <div class="w-auto min-w-[300px] p-10 bg-[#f5f5f5] rounded-xl hover:bg-[#eeeeee]">  
             <h2 class="font-inter font-bold mb-4">
                 Jayme Wahlquist
             </h2>
@@ -16,7 +16,7 @@
             </p>
         </div>
 
-        <div class="w-auto p-10 bg-[#f5f5f5] rounded-xl hover:bg-[#eeeeee]">  
+        <div class="w-auto min-w-[300px] p-10 bg-[#f5f5f5] rounded-xl hover:bg-[#eeeeee]">  
             <h2 class="font-inter font-bold mb-4">
                 Jayme Wahlquist
             </h2>
@@ -28,7 +28,7 @@
         </div>
 
 
-        <div class="w-auto p-10 bg-[#f5f5f5] rounded-xl hover:bg-[#eeeeee]">  
+        <div class="w-auto min-w-[300px] p-10 bg-[#f5f5f5] rounded-xl hover:bg-[#eeeeee]">  
             <h2 class="font-inter font-bold mb-4">
                 Jayme Wahlquist
             </h2>
