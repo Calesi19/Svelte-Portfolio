@@ -1,6 +1,6 @@
 <div class="bg-[#F5F5F5] py-10 w-full">
 
-    <h1 class="container font-inter font-black text-[32px] md:text-[48px]">Projects</h1>
+    <h1 class="container font-inter font-semibold text-[32px] md:text-[32px]">Projects</h1>
 
     <div class="container mt-4">
 
@@ -18,7 +18,7 @@
 
     <div class="container mt-8">
 
-        <h2 class="font-inter font-black text-[24px]">
+        <h2 class="font-inter font-bold text-[24px]">
             LockerHub
         </h2>
 

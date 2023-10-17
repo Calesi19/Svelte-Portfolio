@@ -8,6 +8,9 @@ import Projects from '../components/Projects.svelte';
 import Resume from '../components/Resume.svelte';
 import Footer from '../components/Footer.svelte';
 import Reviews from '../components/Reviews.svelte';
+import Certificates from '../components/Certificates.svelte';
+//import ConstructionBanner from '../components/ConstructionBanner.svelte';
+import Projects2 from '../components/Projects2.svelte';
 
 </script>
 
@@ -21,13 +24,19 @@ import Reviews from '../components/Reviews.svelte';
 
 
 
+
+
+
+
 <Hero />
 
 
 <Skills />
 
 
-<Projects />
+<Projects2 />
+
+<Certificates />
 
 
 <Resume />

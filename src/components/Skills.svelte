@@ -3,7 +3,7 @@
 <div class="bg-[#F5F5F5] py-10 w-full">
 
 
-    <h1 class="container font-inter font-black text-[32px] md:text-[48px]">Skills</h1>
+    <h1 class="container font-inter font-semibold text-[32px] md:text-[32px]">Skills</h1>
     
     <div class="flex container gap-2 lg:justify-between mt-4 overflow-auto lg:overflow-auto no-scrollbar">
     
@@ -57,7 +57,7 @@
     </div>
         
     
-    <p class="container font-inter mt-10">
+    <p class="container font-inter mt-4 md:mt-8">
         Lorem ipsum dolor sit amet consectetur adipisicing elit. Laborum laboriosam optio voluptates voluptas sunt aperiam, facere cumque at. Magni aspernatur, a doloremque facere laborum saepe expedita ad voluptatem eveniet eligendi!
     </p>
     

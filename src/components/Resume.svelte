@@ -1,3 +1,9 @@
+<script>
+    import Marquee from "./Marquee.svelte";
+
+</script>
+
+
 
 <style>
     
@@ -15,23 +21,20 @@
 <div class="waveBackgroundEnd py-10 min-h-[500px]">
 
 
-    <h1 class="container font-inter font-black text-[32px] md:text-[48px]">Resume</h1>
+    <h1 class="container font-inter font-semibold text-[32px] md:text-[32px]">Resume</h1>
     
 
 
-    <div class="container flex mt-5 gap-10">
+    <div class="container flex flex-col md:flex-row mt-5 gap-10">
 
 
 
-
-        
-
-        <img class="w-1/2 rounded-xl" src="Resume-Carlos.webp" alt="Resume">
+        <img class="w-1/2 rounded-xl shadow-lg hover:shadow-2xl hover:scale-105 transition duration-1000 cursor-pointer" src="Resume-Carlos.webp" alt="Resume">
             
         <div class="flex flex-col h-auto w-auto justify-center">
 
             <h2 class="text-[32px] font-semibold">
-                Carlos Lespin
+                
             </h2>
 
             <p>
@@ -43,10 +46,9 @@
                 Resume PDF    
             </button>
 
-            <div class="w-full h-[300px] mt-5 rounded-lg bg-[#EAEAEA] border-2 border-[#fafafa] ">
+            
 
-            </div>
-
+            <Marquee />
 
         </div>
 
