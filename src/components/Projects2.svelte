@@ -40,9 +40,7 @@
                             Visit Repository
                         </button>
         
-                        <button class="hover:text-blue-500 hover:underline">
-                                Visit Website
-                        </button>
+                        
                     </div>
                     
                     <div class="flex gap-4 items-center">
@@ -87,7 +85,6 @@
                     
                     <div class="flex gap-4 items-center">
                         <img class="h-10" src="flutter.png" alt="Flutter">
-                        <img class="h-10" src="firebase.png" alt="Firebase">
                     </div>
 
                 </div>
@@ -120,14 +117,11 @@
                             Visit Repository
                         </button>
         
-                        <button class="hover:text-blue-500 hover:underline">
-                            Visit Website
-                    </button>
+                        
                     </div>
                     
                     <div class="flex gap-4 items-center">
-                        <img class="h-10" src="flutter.png" alt="Flutter">
-                        <img class="h-10" src="firebase.png" alt="Firebase">
+                        <img class="h-10" src="c++.png" alt="C++">
                     </div>
 
                 </div>
