@@ -1,5 +1,5 @@
 <script>
-    import Marquee from "./Marquee.svelte";
+   
 
 </script>
 
@@ -48,7 +48,7 @@
 
             
 
-            <Marquee />
+           
 
         </div>
 
