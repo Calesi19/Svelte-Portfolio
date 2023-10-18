@@ -16,7 +16,7 @@
 
 
 
-<div class="waveBackground w-full flex ">
+<div class="waveBackground w-full flex overflow-hidden">
     <!-- Your content here -->
     <div class="flex flex-col-reverse md:flex-row container items-center justify-between">
         <div class="mt-8 mb-20 md:mb-0 md:mt-0 flex flex-col md:items-start items-center">
