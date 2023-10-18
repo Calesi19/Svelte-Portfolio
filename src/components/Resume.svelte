@@ -8,7 +8,7 @@
 <style>
     
     .waveBackgroundEnd {
-      background: url('/static/waves-end.svg') no-repeat center center;
+      background: url('/waves-end.svg') no-repeat center center;
       background-size: cover; /* This makes sure the SVG covers the entire div */
       height: auto;
       min-height: 50vh;
@@ -38,8 +38,7 @@
             </h2>
 
             <p>
-                Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nobis nesciunt hic inventore facilis ea, ducimus quis sapiente ullam dignissimos quaerat omnis provident repellat animi dolorem labore commodi minima pariatur nihil.
-            </p>
+                For a deeper dive into my professional journey, accomplishments, and qualifications, feel free to download my resume and cover letter. If you find my credentials aligning with a potential opportunity, please don't hesitate to share or reach out to me directly.            </p>
 
             <div class="flex gap-4">
                 <button class="w-auto bg-blue-500 hover:bg-blue-600 active:bg-blue-500 text-xl mt-4 py-3 px-10 rounded-full text-white transition duration-300 active:duration-0 flex items-center gap-4">

@@ -17,20 +17,18 @@
         </div>
     
         <div class="h-[250px] w-[200px] min-w-[200px] rounded-xl bg-[#EAEAEA] text-center flex flex-col px-10">
-            <svg class="h-14 mt-10" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" id="software"><path d="M18 3H6C3.8 3 2 4.8 2 7v10c0 2.2 1.8 4 4 4h12c2.2 0 4-1.8 4-4V7c0-2.2-1.8-4-4-4zm2 14c0 1.1-.9 2-2 2H6c-1.1 0-2-.9-2-2v-7h16v7zm0-9H4V7c0-1.1.9-2 2-2h12c1.1 0 2 .9 2 2v1z"></path><circle cx="10.9" cy="6.6" r=".8"></circle><circle cx="8.3" cy="6.6" r=".8"></circle><circle cx="5.8" cy="6.6" r=".8"></circle></svg>      
-                
+            <svg class="h-14 mt-10" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" id="database"><path d="M8,17a1,1,0,1,0,1,1A1,1,0,0,0,8,17Zm0-6a1,1,0,1,0,1,1A1,1,0,0,0,8,11Zm8-9H8A4,4,0,0,0,4,6V18a4,4,0,0,0,4,4h8a4,4,0,0,0,4-4V6A4,4,0,0,0,16,2Zm2,16a2,2,0,0,1-2,2H8a2,2,0,0,1-2-2V15.44A3.91,3.91,0,0,0,8,16h8a3.91,3.91,0,0,0,2-.56Zm0-6a2,2,0,0,1-2,2H8a2,2,0,0,1-2-2V9.44A3.91,3.91,0,0,0,8,10h8a3.91,3.91,0,0,0,2-.56ZM16,8H8A2,2,0,0,1,8,4h8a2,2,0,0,1,0,4Z"></path></svg>                
                 <p class="mt-10 font-inter font-bold text-lg">
-                    Software Design
+                    Database Management
                 </p>
     
         </div>
     
     
         <div class="h-[250px] w-[200px] min-w-[200px] rounded-xl bg-[#EAEAEA] text-center flex flex-col px-10">
-            <svg class="h-14 mt-10" xmlns="http://www.w3.org/2000/svg" data-name="Layer 1" viewBox="0 0 24 24" id="mortarboard"><path d="M21.49,10.19l-1-.55h0l-9-5-.11,0a1.06,1.06,0,0,0-.19-.06l-.19,0-.18,0a1.17,1.17,0,0,0-.2.06l-.11,0-9,5a1,1,0,0,0,0,1.74L4,12.76V17.5a3,3,0,0,0,3,3h8a3,3,0,0,0,3-3V12.76l2-1.12V14.5a1,1,0,0,0,2,0V11.06A1,1,0,0,0,21.49,10.19ZM16,17.5a1,1,0,0,1-1,1H7a1,1,0,0,1-1-1V13.87l4.51,2.5.15.06.09,0a1,1,0,0,0,.25,0h0a1,1,0,0,0,.25,0l.09,0a.47.47,0,0,0,.15-.06L16,13.87Zm-5-3.14L4.06,10.5,11,6.64l6.94,3.86Z"></path></svg>       
-           
+            <svg class="h-14 mt-10" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" id="git-fork"><rect width="256" height="256" fill="none"></rect><circle cx="128" cy="188" r="28" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="24"></circle><circle cx="188" cy="67.998" r="28" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="24"></circle><circle cx="68" cy="67.998" r="28" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="24"></circle><path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="24" d="M68,95.99756v8.002a24,24,0,0,0,24.00049,24l72-.00146a24,24,0,0,0,23.99951-24V95.99756"></path><line x1="128.002" x2="128" y1="128" y2="160" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="24"></line></svg>           
             <p class="mt-10 font-inter font-bold text-lg">
-            Software Engineering Degree
+            Version Control
             </p>
     
         </div>
@@ -58,8 +56,7 @@
         
     
     <p class="container font-inter mt-4 md:mt-8">
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Laborum laboriosam optio voluptates voluptas sunt aperiam, facere cumque at. Magni aspernatur, a doloremque facere laborum saepe expedita ad voluptatem eveniet eligendi!
-    </p>
+        As an aspiring full-stack engineer, I've been immersing myself in various areas of software development. From front-end design to backend logic and database integrations, my journey has been fueled by a passion to understand and master every layer of the software stack.     </p>
     
     </div>
     

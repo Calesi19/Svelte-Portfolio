@@ -14,7 +14,7 @@
         
 
         <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus, porro vero blanditiis cum itaque quia distinctio, illo consequuntur quasi assumenda error, beatae voluptatibus at eius modi reprehenderit! Vitae, error repellendus!
+            To further validate my expertise and commitment to professional growth I've obtained several certifications in the realm of software engineering.  
         </p>
 
 
