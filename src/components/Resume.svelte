@@ -8,7 +8,7 @@
 <style>
     
     .waveBackgroundEnd {
-      background: url('/static/waves-end.svg') no-repeat center center;
+      background: url('$app/static/waves-end.svg') no-repeat center center;
       background-size: cover; /* This makes sure the SVG covers the entire div */
       height: auto;
       min-height: 50vh;

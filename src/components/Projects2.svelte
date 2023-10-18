@@ -30,15 +30,16 @@
                 </h2>
     
                 <p>
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci autem error accusamus, excepturi ex earum deserunt eum voluptates distinctio harum veritatis illum reprehenderit nam impedit, quaerat architecto nihil, accusantium animi.
-                </p>
-
+                    I designed and built a Flutter application to streamline storage locker rentals. I  ensured users can securely access their lockers through the app.
                 <div class="flex justify-between">
 
                     <div class="flex gap-8">
-                        <button class="border-4 text-[white] bg-[#1e1e1e] border-[#1e1e1e] hover:border-blue-500 py-2 px-7 w-max rounded-full">
-                            Visit Repository
-                        </button>
+                        <a href="https://github.com/Calesi19/LockerHub">
+                            <button class="border-4 text-[white] bg-[#1e1e1e] border-[#1e1e1e] hover:border-blue-500 py-2 px-7 w-max rounded-full">
+                                Visit Repository
+                            </button>
+                        </a>
+                        
         
                         
                     </div>
@@ -68,15 +69,17 @@
                 </h2>
     
                 <p>
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci autem error accusamus, excepturi ex earum deserunt eum voluptates distinctio harum veritatis illum reprehenderit nam impedit, quaerat architecto nihil, accusantium animi.
-                </p>
+                    I crafted a presentation tool specifically for timeshare sales, incorporating various calculators. I developed this utility as a Flutter App.                </p>
 
                 <div class="flex justify-between">
 
                     <div class="flex gap-8">
-                        <button class="border-4 text-[white] bg-[#1e1e1e] border-[#1e1e1e] hover:border-blue-500 py-2 px-7 w-max rounded-full">
-                            Visit Repository
-                        </button>
+                        <a href="https://github.com/Calesi19/Timeshare-Pro-App">
+                            <button class="border-4 text-[white] bg-[#1e1e1e] border-[#1e1e1e] hover:border-blue-500 py-2 px-7 w-max rounded-full">
+                                Visit Repository
+                            </button>
+                        </a>
+                        
         
                         <button class="hover:text-blue-500 hover:underline">
                             Visit Website
@@ -107,19 +110,23 @@
                 </h2>
     
                 <p>
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci autem error accusamus, excepturi ex earum deserunt eum voluptates distinctio harum veritatis illum reprehenderit nam impedit, quaerat architecto nihil, accusantium animi.
-                </p>
+                    I developed a simulation of satellites orbiting Earth, with physics-based interactions. I coded user controls to pilot a spaceship, enabling shooting and collision features.                </p>
 
                 <div class="flex justify-between">
 
                     <div class="flex gap-8">
-                        <button class="border-4 text-[white] bg-[#1e1e1e] border-[#1e1e1e] hover:border-blue-500 py-2 px-7 w-max rounded-full">
-                            Visit Repository
-                        </button>
+
+                        <a href="https://github.com/Calesi19/Orbital-Simulator">
+                            <button class="border-4 text-[white] bg-[#1e1e1e] border-[#1e1e1e] hover:border-blue-500 py-2 px-7 w-max rounded-full">
+                                Visit Repository
+                            </button>
+                        </a>
+
+                        
         
                         
                     </div>
-                    
+                   
                     <div class="flex gap-4 items-center">
                         <img class="h-10" src="c++.png" alt="C++">
                     </div>
