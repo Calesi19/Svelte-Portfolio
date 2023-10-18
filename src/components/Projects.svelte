@@ -31,11 +31,11 @@
     
                 <p>
                     I designed and built a Flutter application to streamline storage locker rentals. I  ensured users can securely access their lockers through the app.
-                <div class="flex justify-between">
+                <div class="flex justify-between items-center">
 
                     <div class="flex gap-8">
                         <a href="https://github.com/Calesi19/LockerHub">
-                            <button class="text-black bg-transparent border-2 border-black hover:border-blue-600 duration-300 transition py-1 px-5 w-max rounded-full">
+                            <button class="text-black text-sm bg-transparent border-2 border-black hover:bg-blue-600 hover:text-white hover:border-blue-600 duration-300 transition py-1 px-5 w-max rounded-full">
                                 Visit Repository
                             </button>
                         </a>
@@ -71,19 +71,19 @@
                 <p>
                     I crafted a presentation tool specifically for timeshare sales, incorporating various calculators. I developed this utility as a Flutter App.                </p>
 
-                <div class="flex justify-between">
+                <div class="flex items-center justify-between">
 
                     <div class="flex gap-8">
                         <a href="https://github.com/Calesi19/Timeshare-Pro-App">
-                            <button class="text-black bg-transparent border-2 border-black hover:border-blue-600 duration-300 transition py-1 px-5 w-max rounded-full">
+                            <button class="text-black text-sm bg-transparent border-2 border-black hover:bg-blue-600 hover:text-white hover:border-blue-600 duration-300 transition py-1 px-5 w-max rounded-full">
                                 Visit Repository
                             </button>
                         </a>
                         
         
-                        <button class="hover:text-blue-400 hover:underline">
+                        <button class="hover:text-blue-400 hover:underline text-sm">
                             Visit Website
-                    </button>
+                        </button>
                     </div>
                     
                     <div class="flex gap-4 items-center">
@@ -112,12 +112,12 @@
                 <p>
                     I developed a simulation of satellites orbiting Earth, with physics-based interactions. I coded user controls to pilot a spaceship, enabling shooting and collision features.                </p>
 
-                <div class="flex justify-between">
+                <div class="flex justify-between items-center">
 
                     <div class="flex gap-8">
 
                         <a href="https://github.com/Calesi19/Orbital-Simulator">
-                            <button class="text-black bg-transparent border-2 border-black hover:border-blue-600 duration-300 transition py-1 px-5 w-max rounded-full">
+                            <button class="text-black text-sm bg-transparent border-2 border-black hover:bg-blue-600 hover:text-white hover:border-blue-600 duration-300 transition py-1 px-5 w-max rounded-full">
                                 Visit Repository
                             </button>
                         </a>
