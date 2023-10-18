@@ -1,6 +1,6 @@
 
 
-<div class="bg-[#F5F5F5] py-10 w-full">
+<div class="bg-[#F5F5F5] md:py-10 w-full">
 
 
     <h1 class="container font-inter font-semibold text-[32px] md:text-[32px]">Skills</h1>
