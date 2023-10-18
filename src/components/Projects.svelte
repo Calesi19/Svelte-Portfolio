@@ -2,7 +2,7 @@
 
 <style>
     .waveBackgroundMiddle {
-      background: url('/static/waves-middle.svg') no-repeat center center;
+      background: url('waves-middle.svg') no-repeat center center;
       background-size: cover; /* This makes sure the SVG covers the entire div */
       height: auto;
       min-height: 50vh;
@@ -35,7 +35,7 @@
 
                     <div class="flex gap-8">
                         <a href="https://github.com/Calesi19/LockerHub">
-                            <button class="text-[white] bg-blue-500 hover:bg-blue-600 active:bg-blue-500 duration-300 transition py-3 px-7 w-max rounded-full">
+                            <button class="text-black bg-transparent border-4 border-black hover:border-blue-600 duration-300 transition py-2 px-7 w-max rounded-full">
                                 Visit Repository
                             </button>
                         </a>
@@ -75,7 +75,7 @@
 
                     <div class="flex gap-8">
                         <a href="https://github.com/Calesi19/Timeshare-Pro-App">
-                            <button class="text-[white] bg-blue-500 hover:bg-blue-600 active:bg-blue-500 duration-300 transition py-3 px-7 w-max rounded-full">
+                            <button class="text-black bg-transparent border-4 border-black hover:border-blue-600 duration-300 transition py-2 px-7 w-max rounded-full">
                                 Visit Repository
                             </button>
                         </a>
@@ -117,7 +117,7 @@
                     <div class="flex gap-8">
 
                         <a href="https://github.com/Calesi19/Orbital-Simulator">
-                            <button class="text-[white] bg-blue-500 hover:bg-blue-600 active:bg-blue-500 duration-300 transition py-3 px-7 w-max rounded-full">
+                            <button class="text-black bg-transparent border-2 border-black hover:border-blue-600 duration-300 transition py-1 px-5 w-max rounded-full">
                                 Visit Repository
                             </button>
                         </a>

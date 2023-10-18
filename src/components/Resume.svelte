@@ -8,7 +8,7 @@
 <style>
     
     .waveBackgroundEnd {
-      background: url('/static/waves-end.svg') no-repeat center center;
+      background: url('waves-end.svg') no-repeat center center;
       background-size: cover; /* This makes sure the SVG covers the entire div */
       height: auto;
       min-height: 50vh;
@@ -41,10 +41,19 @@
                 Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nobis nesciunt hic inventore facilis ea, ducimus quis sapiente ullam dignissimos quaerat omnis provident repellat animi dolorem labore commodi minima pariatur nihil.
             </p>
 
-            <button class="w-auto bg-blue-500 hover:bg-blue-600 active:bg-blue-500 text-xl mt-4 py-3 px-10 rounded-full text-white transition duration-300 active:duration-0 flex items-center gap-4">
-                <svg class="h-[24px]" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" id="Download"><path d="M8.29,13.29a1,1,0,0,0,0,1.42l3,3a1,1,0,0,0,1.42,0l3-3a1,1,0,0,0-1.42-1.42L13,14.59V3a1,1,0,0,0-2,0V14.59l-1.29-1.3A1,1,0,0,0,8.29,13.29ZM18,9H16a1,1,0,0,0,0,2h2a1,1,0,0,1,1,1v7a1,1,0,0,1-1,1H6a1,1,0,0,1-1-1V12a1,1,0,0,1,1-1H8A1,1,0,0,0,8,9H6a3,3,0,0,0-3,3v7a3,3,0,0,0,3,3H18a3,3,0,0,0,3-3V12A3,3,0,0,0,18,9Z" fill="#ffffff" class="color000000 svgShape"></path></svg>
-                Download Resume PDF    
-            </button>
+            <div class="flex gap-4">
+                <button class="w-auto bg-blue-500 hover:bg-blue-600 active:bg-blue-500 text-xl mt-4 py-3 px-10 rounded-full text-white transition duration-300 active:duration-0 flex items-center gap-4">
+                    <svg class="h-[24px]" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" id="Download"><path d="M8.29,13.29a1,1,0,0,0,0,1.42l3,3a1,1,0,0,0,1.42,0l3-3a1,1,0,0,0-1.42-1.42L13,14.59V3a1,1,0,0,0-2,0V14.59l-1.29-1.3A1,1,0,0,0,8.29,13.29ZM18,9H16a1,1,0,0,0,0,2h2a1,1,0,0,1,1,1v7a1,1,0,0,1-1,1H6a1,1,0,0,1-1-1V12a1,1,0,0,1,1-1H8A1,1,0,0,0,8,9H6a3,3,0,0,0-3,3v7a3,3,0,0,0,3,3H18a3,3,0,0,0,3-3V12A3,3,0,0,0,18,9Z" fill="#ffffff" class="color000000 svgShape"></path></svg>
+                    Resume PDF    
+                </button>
+                
+                <button class="w-auto border-4 border-[#1e1e1e] hover:border-blue-600 text-xl mt-4 py-2 px-10 rounded-full transition duration-300 active:duration-0 flex items-center gap-4">
+                    <svg class="h-[24px]" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" id="Download"><path d="M8.29,13.29a1,1,0,0,0,0,1.42l3,3a1,1,0,0,0,1.42,0l3-3a1,1,0,0,0-1.42-1.42L13,14.59V3a1,1,0,0,0-2,0V14.59l-1.29-1.3A1,1,0,0,0,8.29,13.29ZM18,9H16a1,1,0,0,0,0,2h2a1,1,0,0,1,1,1v7a1,1,0,0,1-1,1H6a1,1,0,0,1-1-1V12a1,1,0,0,1,1-1H8A1,1,0,0,0,8,9H6a3,3,0,0,0-3,3v7a3,3,0,0,0,3,3H18a3,3,0,0,0,3-3V12A3,3,0,0,0,18,9Z" fill="#000000" class="color000000 svgShape"></path></svg>
+                    CV PDF
+                </button>
+            </div>
+
+            
 
             
 
