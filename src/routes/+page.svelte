@@ -10,7 +10,7 @@ import Footer from '../components/Footer.svelte';
 import Reviews from '../components/Reviews.svelte';
 import Certificates from '../components/Certificates.svelte';
 //import ConstructionBanner from '../components/ConstructionBanner.svelte';
-import Projects2 from '../components/Projects2.svelte';
+
 
 </script>
 
@@ -34,7 +34,7 @@ import Projects2 from '../components/Projects2.svelte';
 <Skills />
 
 
-<Projects2 />
+<Projects />
 
 <Certificates />
 
