@@ -21,7 +21,7 @@
 
         <div class="container flex flex-col md:flex-row justify-between gap-4 md:gap-10">
 
-            <img class="w-full md:w-1/3 rounded-xl transition duration-300 hover:scale-105 hover:shadow-lg" src="LockerHub.png" alt="LockerHub">
+            <img class="w-full md:w-1/3 rounded-xl transition duration-300 hover:scale-105 hover:shadow-lg" src="LockerHub.webp" alt="LockerHub">
 
 
             <div class="flex flex-col gap-2 h-auto justify-center">
@@ -45,8 +45,8 @@
                     </div>
                     
                     <div class="flex gap-4 items-center">
-                        <img class="h-10" src="flutter.png" alt="Flutter">
-                        <img class="h-10" src="firebase.png" alt="Firebase">
+                        <img class="h-10" src="flutter.webp" alt="Flutter">
+                        <img class="h-10" src="firebase.webp" alt="Firebase">
                     </div>
 
                 </div>
@@ -60,7 +60,7 @@
 
         <div class="container flex flex-col md:flex-row justify-between gap-4 md:gap-10">
 
-            <img class="w-full md:w-1/3 rounded-xl transition duration-300 hover:scale-105 hover:shadow-lg" src="Timeshare-Banner.png" alt="Timeshare Pro">
+            <img class="w-full md:w-1/3 rounded-xl transition duration-300 hover:scale-105 hover:shadow-lg" src="Timeshare-Banner.webp" alt="Timeshare Pro">
 
 
             <div class="flex flex-col gap-2 h-auto justify-center">
@@ -87,7 +87,7 @@
                     </div>
                     
                     <div class="flex gap-4 items-center">
-                        <img class="h-10" src="flutter.png" alt="Flutter">
+                        <img class="h-10" src="flutter.webp" alt="Flutter">
                     </div>
 
                 </div>
@@ -101,7 +101,7 @@
 
         <div class="container flex flex-col md:flex-row justify-between gap-4 md:gap-10">
 
-            <img class="w-full md:w-1/3 rounded-xl transition duration-300 hover:scale-105 hover:shadow-lg" src="Orbital-Simulator.png" alt="Timeshare Pro">
+            <img class="w-full md:w-1/3 rounded-xl transition duration-300 hover:scale-105 hover:shadow-lg" src="Orbital-Simulator.webp" alt="Timeshare Pro">
 
 
             <div class="flex flex-col gap-2 h-auto justify-center">
@@ -128,7 +128,7 @@
                     </div>
                    
                     <div class="flex gap-4 items-center">
-                        <img class="h-10" src="c++.png" alt="C++">
+                        <img class="h-10" src="c++.webp" alt="C++">
                     </div>
 
                 </div>

@@ -42,19 +42,19 @@
 
     <div class="grid grid-cols-2 gap-4 w-full md:max-w-[50%]">
         <center class="bg-[#EAEAEA] rounded-xl p-5 flex justify-center items-center">
-            <img class="h-[80%]" src="comptia.png" alt="CompTia A+ Certification">
+            <img class="h-[80%]" src="comptia.webp" alt="CompTia A+ Certification">
         </center>
 
         <center class="bg-[#EAEAEA] rounded-xl p-5 flex justify-center items-center">
-            <img class="h-[80%]" src="byui.png" alt="Brigham Young University - Idaho Logo">
+            <img class="h-[80%]" src="byui.webp" alt="Brigham Young University - Idaho Logo">
         </center>
 
         <center class="bg-[#EAEAEA] rounded-xl p-5 flex justify-center items-center">
-            <img class="h-[80%]" src="googlecert.png" alt="CompTia A+ Certification">
+            <img class="h-[80%]" src="googlecert.webp" alt="CompTia A+ Certification">
         </center>
 
         <center class="bg-[#EAEAEA] rounded-xl p-5 flex justify-center items-center">
-            <img class="h-[80%]" src="comptia.png" alt="CompTia A+ Certification">
+            <img class="h-[80%]" src="comptia.webp" alt="CompTia A+ Certification">
         </center>
 
 
