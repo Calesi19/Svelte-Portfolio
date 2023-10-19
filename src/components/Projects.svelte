@@ -2,7 +2,7 @@
 
 <style>
     .waveBackgroundMiddle {
-      background: url('waves-middle.svg') no-repeat center center;
+      background: url('/waves-middle.svg') no-repeat center center;
       background-size: cover; /* This makes sure the SVG covers the entire div */
       height: auto;
       min-height: 50vh;
