@@ -8,7 +8,8 @@ import Projects from '../components/Projects.svelte';
 import Resume from '../components/Resume.svelte';
 import Footer from '../components/Footer.svelte';
 import Reviews from '../components/Reviews.svelte';
-import Certificates from '../components/Certificates.svelte';
+import Education from '../components/Education.svelte';
+// import Certificates from '../components/Certificates.svelte';
 //import ConstructionBanner from '../components/ConstructionBanner.svelte';
 
 
@@ -36,8 +37,12 @@ import Certificates from '../components/Certificates.svelte';
 
 <Projects />
 
-<Certificates />
 
+<Education />
+
+<!--  For now, until I have more certificates to showcase, I will be hiding this section.
+<Certificates />
+-->
 
 <Resume />
 
