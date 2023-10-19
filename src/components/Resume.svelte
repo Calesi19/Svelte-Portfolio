@@ -36,7 +36,14 @@
             
         <div class="flex flex-col h-auto w-auto justify-center">
 
-            
+            <div class="mb-2 text-lg leading-tight">
+                <span class="font-semibold text-base">Phone<br></span>
+                (787)-988-9447<br>
+            </div>
+            <div class="mb-8 text-lg leading-tight">
+                <span class="font-semibold text-base">Email:<br></span>
+                carlos.lespin.silva@gmail.com
+            </div>
 
             <p>
                 For a deeper dive into my professional journey, accomplishments, and qualifications, feel free to download my resume and cover letter. If you find my credentials aligning with a potential opportunity, please don't hesitate to share or reach out to me directly.            </p>
