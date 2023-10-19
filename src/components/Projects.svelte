@@ -81,7 +81,7 @@
                         </a>
                         
         
-                        <button class="hover:text-blue-400 hover:underline text-sm">
+                        <button class="hidden hover:text-blue-400 hover:underline text-sm">
                             Visit Website
                         </button>
                     </div>
