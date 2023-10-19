@@ -7,6 +7,7 @@
     font-family: 'Inter'; /* A name for the font */
     src: url('/fonts/Inter-VariableFont.ttf') format('truetype'); /* Add other formats if needed */
     font-weight: 100 900;
+    font-display: swap; /* Ensure text remains visible during webfont load */
 }
 
 * {
