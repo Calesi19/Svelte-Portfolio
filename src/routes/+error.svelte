@@ -1,18 +1,5 @@
-<script context="module">
-    export function load({ error }) {
-        return {
-            props: {
-                status: error.status,
-                message: error.message
-            }
-        };
-    }
-</script>
 
-<script>
-    export let status;
-    export let message;
-</script>
+
 
 <style>
     .waveBackground {
@@ -30,13 +17,10 @@
     <div class="flex flex-col-reverse md:flex-row container items-center justify-between w-auto">
         <div class="mt-8 mb-20 md:mb-0 md:mt-0 flex flex-col items-center">
 
-            {#if status === 404}
-    <h1 class="font-inter font-black text-[64px] md:text-[84px] text-[#1e1e1e] text-center leading-none" >Page Not Found</h1>
+         
+    <h1 class="font-inter font-black text-[64px] md:text-[84px] text-[#1e1e1e] text-center leading-none" >Something went wrong.</h1>
     <p class="font-inter font-bold text-[#505050] text-xl text-center md:text-start md:text-2xl mt-4">Sorry, we couldn't find that page. Please check the URL or go back to the homepage.</p>
-            {:else}
-    <h1 class="font-inter font-black text-[64px] md:text-[84px] text-[#1e1e1e] text-center leading-none">Error {status}</h1>
-    <p class="font-inter font-bold text-[#505050] text-xl text-center md:text-start md:text-2xl mt-4">{message}</p>
-            {/if}
+           
 
             
             
