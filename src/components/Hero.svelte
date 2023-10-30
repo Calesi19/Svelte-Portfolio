@@ -8,8 +8,8 @@
       min-height: 50vh;
       width: 100%;
     }
-
-  </style>
+ 
+</style>
 
 
 
@@ -48,5 +48,6 @@
     </div>
     
 </div>
+
 
 
