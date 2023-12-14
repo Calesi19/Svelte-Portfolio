@@ -9,6 +9,7 @@ import Resume from '../components/Resume.svelte';
 import Footer from '../components/Footer.svelte';
 import Reviews from '../components/Reviews.svelte';
 import Education from '../components/Education.svelte';
+  //import Experience from '../components/Experience.svelte';
 // import Certificates from '../components/Certificates.svelte';
 //import ConstructionBanner from '../components/ConstructionBanner.svelte';
 
@@ -44,9 +45,11 @@ import Education from '../components/Education.svelte';
 <Certificates />
 -->
 
+
+
 <Resume />
 
-<Reviews />
+<!--<Reviews /> -->
 
 
 <Footer />
