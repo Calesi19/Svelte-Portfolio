@@ -2,6 +2,16 @@
 
 This portfolio showcases my work and projects. It's designed to be responsive, fast, and easy to navigate, leveraging the power of SvelteKit and the flexibility of Tailwind CSS.
 
+<div style="display: flex; gap: 10px; height: 60px;" >
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" />
+          
+
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
+          
+</div>
+
 ## Installation
 
 To run this project locally, follow these steps:
@@ -33,11 +43,26 @@ To create a production version of your app:
 npm run build
 ```
 
+## Result (Production)
+
+You can visit the website at: https://www.carloslespin.com/
+
+
+
 
 ## Development Process
 
-
-
+When developing for this website, I wanted the site to be simple and resemble a landing page a company would use.
 
 | ![Wirefame](docs/wireframe.png)      | ![Figma Prototype](docs/figma.png)      |
 | -------------- | -------------- |
+
+## Future Work
+
+* This iteration of my porftolio feels too static. Add fade in animations for elements scrolling into view.
+
+* A certificate section.
+
+* Endorsements section.
+
+* New iterations could have an even simpler layout than this.
