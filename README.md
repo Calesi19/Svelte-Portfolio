@@ -53,6 +53,8 @@ When developing for this website, I wanted the site to be simple and resemble a 
 
 * This iteration of my porftolio feels too static. Add fade in animations for elements scrolling into view.
 
+* Use the GitHub API to load the projects instead of having three hardcoded projects.
+
 * A certificate section.
 
 * Endorsements section.
