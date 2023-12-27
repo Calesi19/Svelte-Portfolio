@@ -2,15 +2,14 @@
 
 This portfolio showcases my work and projects. It's designed to be responsive, fast, and easy to navigate, leveraging the power of SvelteKit and the flexibility of Tailwind CSS.
 
-<div style="display: flex; gap: 10px; height: 60px;" >
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" style="height: 70" />
           
 
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
-          
-</div>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" style="height: 70" />
+
 
 ## Installation
 
