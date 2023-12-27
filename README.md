@@ -4,13 +4,6 @@ This portfolio showcases my work and projects. It's designed to be responsive, f
 
 
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" style="height: 70" />
-          
-
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" style="height: 70" />
-
-
 ## Installation
 
 To run this project locally, follow these steps:
