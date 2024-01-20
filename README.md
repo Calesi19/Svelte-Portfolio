@@ -60,3 +60,5 @@ When developing for this website, I wanted the site to be simple and resemble a 
 * Endorsements section.
 
 * New iterations could have an even simpler layout than this.
+
+* Lazy loading.
