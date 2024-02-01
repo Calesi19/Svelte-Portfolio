@@ -30,7 +30,7 @@
                 </h2>
     
                 <p>
-                    I designed and built a Flutter application to streamline storage locker rentals. I  ensured users can securely access their lockers through the app.
+                    Flutter application to streamline storage locker rentals. I  ensured users can securely access their lockers through the app.
                 <div class="flex justify-between items-center">
 
                     <div class="flex gap-8">
@@ -69,7 +69,7 @@
                 </h2>
     
                 <p>
-                    I crafted a presentation tool specifically for timeshare sales, incorporating various calculators. I developed this utility as a Flutter App.                </p>
+                    Presentation tool specifically for timeshare sales, incorporating various calculators. I developed this utility as a Flutter App.                </p>
 
                 <div class="flex items-center justify-between">
 
@@ -110,7 +110,7 @@
                 </h2>
     
                 <p>
-                    I developed a simulation of satellites orbiting Earth, with physics-based interactions. I coded user controls to pilot a spaceship, enabling shooting and collision features.                </p>
+                    Simulation of satellites orbiting Earth, with physics-based interactions. I coded user controls to pilot a spaceship, enabling shooting and collision features.                </p>
 
                 <div class="flex justify-between items-center">
 
