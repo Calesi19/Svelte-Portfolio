@@ -69,7 +69,7 @@
                 </h2>
     
                 <p>
-                    Presentation tool specifically for timeshare sales, incorporating various calculators. I developed this utility as a Flutter App.                </p>
+                    Presentation tool specifically for timeshare sales, incorporating various calculators. Built using Flutter.                </p>
 
                 <div class="flex items-center justify-between">
 
