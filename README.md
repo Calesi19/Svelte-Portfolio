@@ -1,3 +1,6 @@
+
+![Banner](docs/banner.png)
+
 # Portfolio
 
 This portfolio showcases my work and projects. It's designed to be responsive, fast, and easy to navigate, leveraging the power of SvelteKit and the flexibility of Tailwind CSS.
